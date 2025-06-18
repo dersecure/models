@@ -111,9 +111,9 @@
             "value": 1
           },
           {
-            "desc": "Do Not Reset Device",
-            "label": "Do Not Reset Device",
-            "name": "DO_NOT_RESET",
+            "desc": "Waiting for Device Reset",
+            "label": "Waiting for Reset",
+            "name": "WAITING",
             "value": 0
           }
         ],
@@ -160,13 +160,13 @@
           {
             "desc": "EN50530 Mode",
             "label": "EN50530 Mode",
-            "name": "EN50530",
+            "name": "EN50530_ENABLED",
             "value": 1
           },
           {
             "desc": "Do Not Use EN50530 Mode",
             "label": "Do Not Use EN50530 Mode",
-            "name": "DO_NOT_EN50530",
+            "name": "EN50530_DISABLED",
             "value": 0
           }
         ]

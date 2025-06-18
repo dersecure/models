@@ -98,7 +98,8 @@
                     "type": "integer"
                 },
                 "size": {
-                    "type": "integer"
+                    "type": "integer",
+                    "maximum": 125
                 },
                 "sf": {
                     "type": ["integer", "string"],
